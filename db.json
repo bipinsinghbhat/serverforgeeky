@@ -324,21 +324,23 @@
       "description": "Redmi Note 10 Pro CN Version 6.6 Inch 2400x1080 FHD+ Display 5G Smartphone MediaTek Dimensity 1100 6GB 128GB Triple Rear Camera 5000mAh Battery MIUI 12.5 - Black"
     }
   ],
-  "users":[
-    {"Username":"Batman",
-   "Avatar":"https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.1441844130.1683454168&semt=sph",
-   "Email":"batman@gmail.com",
-   "Password":"batman"
-  },
-  {"Username":"Flash",
-  "Avatar":"https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.1441844130.1683454168&semt=sph",
-  "Email":"flash@gmail.com",
-  "Password":"Flash"
- },
- {"Username":"Wonder",
- "Avatar":"https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.1441844130.1683454168&semt=sph",
- "Email":"wonder@gmail.com",
- "Password":"Wonder"
-}
-  ]
+
+  
+    "users": [
+      {
+        "userName": "Batman",
+        "avatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.1441844130.1683454168&semt=sph",
+        "email": "Batman@gmail.com",
+        "password": "batman",
+        "id": 2
+      },
+      {
+        "userName": "Thor",
+        "avatar": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=626&ext=jpg&ga=GA1.2.1441844130.1683454168&semt=sph",
+        "email": "Thor@gmail.com",
+        "password": "thor",
+        "id": 3
+      }
+    ]
+  
 }
